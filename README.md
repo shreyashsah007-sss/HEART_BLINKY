@@ -3,6 +3,13 @@
  I Made a Heart-shaped LED chaser PCB with custom artwork, powered by NE555 and CD4017. Designed in KiCad for Blueprint.
 ### **Why I Made This**
 I finished my exams and had some free time, so I decided to jump back into another Blueprint project to keep improving my skills.
+### **How to Use It**
+Connect a 5V to 9V DC power source to the J1 header.
+
+The LEDs will begin to chase in a heart-shaped sequence.
+
+Turn the RV1 potentiometer knob to speed up or slow down the "heartbeat" effect.
+
 ### **3d view**
 <img width="1703" height="878" alt="Screenshot 2026-02-17 172040" src="https://github.com/user-attachments/assets/2466856c-21dd-4353-afb2-543ac14b5abc" />
 
